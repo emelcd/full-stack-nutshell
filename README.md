@@ -2,7 +2,7 @@
 
 ## INSTALLATION 📦
 
-### BACKEND 
+### BACKEND
 
 ```bash
 cd frontend
